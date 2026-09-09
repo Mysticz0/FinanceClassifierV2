@@ -53,7 +53,7 @@ The window title is **Financial Sentiment Analyzer**. Enter an article URL and c
 
 | File       | Role                         |
 | ---------- | ---------------------------- |
-| `test.py`  | Full app: scrape, model, GUI |
+| `main.py`  | Full app: scrape, model, GUI |
 | `logo.ico` | Window icon                  |
 
 
